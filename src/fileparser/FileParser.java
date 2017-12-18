@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 /**
- *TEST2
+ *TEST
  * @author A.Smith
  */
 public class FileParser {
